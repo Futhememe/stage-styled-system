@@ -28,7 +28,7 @@ yarn add @stage-styled-system panda-css
 
 ```javascript
 import React from 'react';
-import { css } from '@stage-styled-system/css';
+import { css } from '@stage-lib/styled-system/css';
 
 const App = () => {
   return (
