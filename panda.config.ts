@@ -38,5 +38,5 @@ export default defineConfig({
     },
   },
 
-  outdir: "src",
+  outdir: "dist",
 });
