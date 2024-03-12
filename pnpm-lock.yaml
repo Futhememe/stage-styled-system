@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@stage-lib/tokens':
-    specifier: ^0.2.1
-    version: 0.2.1
+    specifier: ^0.2.2
+    version: 0.2.2
 
 devDependencies:
   '@changesets/cli':
@@ -737,8 +737,8 @@ packages:
     resolution: {integrity: sha512-MBwY4DCQfzv3xMqj4y6QSkFUv3wW46ipCHp9hATaeMdyb0aE316xiAgXnxnPZQA+xpjhTpWv7QE7NN3S9g0j/A==}
     dev: true
 
-  /@stage-lib/tokens@0.2.1:
-    resolution: {integrity: sha512-UgkoyjrmkUKuxhvRRuHZWAfY/zl8LaHRVDNwdiByaeHSm+LdML3QA+Tu5zTANpxHpXnppGTlqghXdVmsuh549w==}
+  /@stage-lib/tokens@0.2.2:
+    resolution: {integrity: sha512-mjQhbcSw2FbDoyGFaOvC6ZaRkf9/0sI7mVZIpmlpNbVzrJG4jfvsfYivK+Qz3cEdVJKBEUnxfbHO39YiwqbGfw==}
     dev: false
 
   /@ts-morph/common@0.22.0:
