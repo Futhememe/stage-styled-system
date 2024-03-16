@@ -1,5 +1,11 @@
 # @stage-lib/styled-system
 
+## 0.1.5
+
+### Patch Changes
+
+- - adjust files on package.json
+
 ## 0.1.4
 
 ### Patch Changes

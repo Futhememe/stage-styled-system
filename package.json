@@ -1,6 +1,6 @@
 {
   "name": "@stage-lib/styled-system",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "",
   "scripts": {
     "build": "panda",
@@ -13,6 +13,9 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
+  "files": [
+    "dist"
+  ],
   "dependencies": {
     "@stage-lib/tokens": "^0.2.2"
   },
