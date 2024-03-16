@@ -1,6 +1,6 @@
 {
   "name": "@stage-lib/styled-system",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "",
   "scripts": {
     "build": "panda",
@@ -26,30 +26,30 @@
   },
   "exports": {
     "./css": {
-      "types": "./dist/css/index.d.ts",
-      "require": "./dist/css/index.mjs",
-      "import": "./dist/css/index.mjs"
+      "types": "./css/index.d.ts",
+      "require": "./css/index.mjs",
+      "import": "./css/index.mjs"
     },
     "./tokens": {
-      "types": "./dist/tokens/index.d.ts",
-      "require": "./dist/tokens/index.mjs",
-      "import": "./dist/tokens/index.mjs"
+      "types": "./tokens/index.d.ts",
+      "require": "./tokens/index.mjs",
+      "import": "./tokens/index.mjs"
     },
     "./types": {
-      "types": "./dist/types/index.d.ts",
-      "require": "./dist/types/index.mjs",
-      "import": "./dist/types/index.mjs"
+      "types": "./types/index.d.ts",
+      "require": "./types/index.mjs",
+      "import": "./types/index.mjs"
     },
     "./patterns": {
-      "types": "./dist/patterns/index.d.ts",
-      "require": "./dist/patterns/index.mjs",
-      "import": "./dist/patterns/index.mjs"
+      "types": "./patterns/index.d.ts",
+      "require": "./patterns/index.mjs",
+      "import": "./patterns/index.mjs"
     },
     "./jsx": {
-      "types": "./dist/jsx/index.d.ts",
-      "require": "./dist/jsx/index.mjs",
-      "import": "./dist/jsx/index.mjs"
+      "types": "./jsx/index.d.ts",
+      "require": "./jsx/index.mjs",
+      "import": "./jsx/index.mjs"
     },
-    "./styles.css": "./dist/styles.css"
+    "./styles.css": "./styles.css"
   }
 }

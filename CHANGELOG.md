@@ -1,5 +1,11 @@
 # @stage-lib/styled-system
 
+## 0.1.6
+
+### Patch Changes
+
+- - adjust exports
+
 ## 0.1.5
 
 ### Patch Changes
