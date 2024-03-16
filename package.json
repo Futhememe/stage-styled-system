@@ -1,6 +1,6 @@
 {
   "name": "@stage-lib/styled-system",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "",
   "scripts": {
     "build": "panda --outdir ./",
@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "files": [
-    "./dist/*"
+    "./*"
   ],
   "author": "",
   "license": "MIT",
