@@ -1,5 +1,11 @@
 # @stage-lib/styled-system
 
+## 0.1.7
+
+### Patch Changes
+
+- adjust export without dist
+
 ## 0.1.6
 
 ### Patch Changes

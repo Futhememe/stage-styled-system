@@ -4,3 +4,10 @@ dist
 styled-system
 styled-system-studio
 src
+css
+jsx
+patterns
+tokens
+types
+helpers.mjs
+styles.css

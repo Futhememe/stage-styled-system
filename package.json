@@ -1,9 +1,9 @@
 {
   "name": "@stage-lib/styled-system",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "",
   "scripts": {
-    "build": "panda",
+    "build": "panda --outdir ./",
     "dev": "panda --watch",
     "codegen": "panda codegen",
     "changeset": "changeset",
@@ -11,11 +11,11 @@
     "release": "pnpm run build && changeset publish"
   },
   "keywords": [],
+  "files": [
+    "./dist/*"
+  ],
   "author": "",
   "license": "MIT",
-  "files": [
-    "dist"
-  ],
   "dependencies": {
     "@stage-lib/tokens": "^0.2.2"
   },
