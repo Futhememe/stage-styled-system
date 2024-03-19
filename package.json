@@ -1,9 +1,9 @@
 {
   "name": "@stage-lib/styled-system",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "description": "",
   "scripts": {
-    "build": "panda --outdir ./",
+    "build": "tsup src/index.ts --format esm,cjs --dts",
     "dev": "panda --watch",
     "codegen": "panda codegen",
     "changeset": "changeset",
@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "files": [
-    "./*"
+    "./dist"
   ],
   "author": "",
   "license": "MIT",

@@ -1,5 +1,11 @@
 # @stage-lib/styled-system
 
+## 0.2.0
+
+### Minor Changes
+
+- - Adjust all export to use only preset
+
 ## 0.1.8
 
 ### Patch Changes
