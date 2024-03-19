@@ -1,5 +1,11 @@
 # @stage-lib/styled-system
 
+## 0.2.1
+
+### Patch Changes
+
+- - Adjust config adding tsup
+
 ## 0.2.0
 
 ### Minor Changes
