@@ -1,7 +1,10 @@
 {
   "name": "@stage-lib/styled-system",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "build": "tsup src/index.ts --format esm,cjs --dts",
     "dev": "panda --watch",
@@ -24,33 +27,5 @@
     "@pandacss/dev": "^0.34.3",
     "tsup": "^8.0.2",
     "typescript": "^4.8.4"
-  },
-  "exports": {
-    "./css": {
-      "types": "./css/index.d.ts",
-      "require": "./css/index.mjs",
-      "import": "./css/index.mjs"
-    },
-    "./tokens": {
-      "types": "./tokens/index.d.ts",
-      "require": "./tokens/index.mjs",
-      "import": "./tokens/index.mjs"
-    },
-    "./types": {
-      "types": "./types/index.d.ts",
-      "require": "./types/index.mjs",
-      "import": "./types/index.mjs"
-    },
-    "./patterns": {
-      "types": "./patterns/index.d.ts",
-      "require": "./patterns/index.mjs",
-      "import": "./patterns/index.mjs"
-    },
-    "./jsx": {
-      "types": "./jsx/index.d.ts",
-      "require": "./jsx/index.mjs",
-      "import": "./jsx/index.mjs"
-    },
-    "./styles.css": "./styles.css"
   }
 }
