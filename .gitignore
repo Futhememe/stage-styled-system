@@ -1,12 +1,13 @@
 node_modules
+dist
 ## Panda
 styled-system
 styled-system-studio
-# css
-# jsx
-# patterns
-# tokens
-# types
-# helpers.mjs
-# styles.css
+css
+jsx
+patterns
+tokens
+types
+helpers.mjs
+styles.css
 panda.buildinfo.json

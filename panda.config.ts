@@ -13,6 +13,7 @@ export default defineConfig({
   preflight: true,
   jsxFramework: "react",
   presets: [stagePreset],
+  jsxFactory: "orch",
 
   theme: {
     extend: {
