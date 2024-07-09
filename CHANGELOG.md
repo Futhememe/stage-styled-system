@@ -1,5 +1,17 @@
 # @stage-lib/styled-system
 
+## 1.1.0
+
+### Minor Changes
+
+- change index file with preset to ./preset
+
+## 1.0.0
+
+### Major Changes
+
+- new strategy to export
+
 ## 0.3.0
 
 ### Minor Changes
