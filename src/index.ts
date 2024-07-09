@@ -8,6 +8,8 @@ import {
   breakpoints,
 } from "@stage-lib/tokens";
 
+export { styled as orch } from "../dist/jsx";
+
 export const stagePreset = definePreset({
   theme: {
     extend: {

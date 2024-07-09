@@ -1,6 +1,6 @@
 {
   "name": "@stage-lib/styled-system",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",

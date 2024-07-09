@@ -7,10 +7,12 @@ import {
   radii,
   breakpoints,
 } from "@stage-lib/tokens";
+import { stagePreset } from "./src";
 
 export default defineConfig({
   preflight: true,
   jsxFramework: "react",
+  presets: [stagePreset],
 
   theme: {
     extend: {
