@@ -1,5 +1,23 @@
 # @stage-lib/styled-system
 
+## 1.1.3
+
+### Patch Changes
+
+- adjust all export to dist
+
+## 1.1.2
+
+### Patch Changes
+
+- changing to use dist
+
+## 1.1.1
+
+### Patch Changes
+
+- change import
+
 ## 1.1.0
 
 ### Minor Changes
